@@ -1,7 +1,7 @@
 # When Does Sketching Suffice? Backward Stability in Randomized Least Squares
 
 Code and experimental results for Ethan Hsu's senior thesis at Princeton ORFE
-(advisor: Prof. Elizaveta Rebrova, submission May 2026). The thesis studies
+(advisor: Prof. Elizaveta Rebrova, submission April 2026). The thesis studies
 the conditions under which sketch-and-solve alone achieves backward stability
 for overdetermined least squares, versus when iterative refinement
 (FOSSILS, SPIR) is required.
