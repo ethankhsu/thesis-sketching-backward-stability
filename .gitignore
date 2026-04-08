@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Claude / editor state
+.claude/
+
+# Thesis draft, papers, and rubrics (kept local)
+Thesis_Draft/
+Thesis_Draft.zip
+Thesis_Checklist.pdf
+EPPERLY, MEIER, NAKATSUKASA.pdf
+thesis_rubric.jpg
+thesis_claude_code_prompt.md
+
+# PDF-check screenshots
+__pdfcheck_*.png
+
+# Stale sweep artifacts
+results/*.bak
+results/*_old.csv
+figures/backup_before_regen/
+figures/backup_before_regen_thesis/
+
+# OS
+.DS_Store
+Thumbs.db
